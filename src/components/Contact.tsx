@@ -27,7 +27,7 @@ const Contact: FC = () => {
               ¿Quieres Contáctarme?
             </h1>
             <p className="text-white-secondary text-xl md:text-2xl md:w-2/3">
-              Puedes encontrarme en las siguientes plataformas:
+              Puedes hacerlo mediante las siguientes plataformas:
             </p>
           </div>
         </div>
@@ -42,7 +42,7 @@ const Contact: FC = () => {
                 className="flex space-x-5 items-center hover:text-slate-300"
               >
                 <FaLinkedinIn size={30} color="#3b82f6" />
-                <p>LinkedinIn</p>
+                <p>LinkedIn</p>
               </a>
             </li>
             <li>

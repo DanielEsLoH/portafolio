@@ -47,9 +47,9 @@ const Home: FC = () => {
         <meta property="og:description" content="Creacion de portafolio usando ReactJS" />
         <meta property="description" content="Creacion de portafolio usando ReactJS" />
         <meta name="theme-color" content="#FFF1" />
-        <link rel="icon" href="static/favicon.ico" />
+        <link rel="icon" href="/static/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com&display=optional" />
-        <link href="./splatboy-dev.webp" sizes="100%" />
+        <link href="./fotoPorta.jpeg" sizes="100%" />
       </Head>
       <LayoutGroup>
         {typeof window !== "undefined" && <DynamicNav />}
