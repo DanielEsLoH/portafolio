@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.tsx -> ../components/Nav":{id:218,files:["static/chunks/0c428ae2.376a2155be088690.js","static/chunks/604.617a3961a32021d3.js","static/chunks/218.0a06f974e7344b31.js"]},"index.tsx -> framer-motion":{id:8939,files:["static/chunks/939.d3257c7335bccab5.js"]}};
