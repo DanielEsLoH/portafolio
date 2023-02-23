@@ -55,7 +55,7 @@ const WorkCard: FC<Props> = ({
               "linear-gradient(to bottom right, rgba(255, 0, 255, 0.15), rgba(196,80,196, 0.15))",
           }}
         >
-          Repository
+          Repositorio
         </a>
       </div>
     </motion.div>

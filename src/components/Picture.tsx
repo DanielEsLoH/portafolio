@@ -39,7 +39,7 @@ const Picture: FC = () => {
       >
         Bienvenido a mi portafolio<br />
         Soy una persona responsable, proactivo, con capacidad de trabajar en
-        equipo y rápido aprendizaje. Cuento con conocimientos en desarrollo, y me
+        equipo y rápido aprendizaje. Cuento con conocimientos en desarrollo de aplicaciones web, y me
         encuentro en formación constante para actualización de esta. Me gusta
         todo lo relacionado con sistemas, desarrollo de software y áreas afines. Mi
         objetivo es evolucionar en el sector.

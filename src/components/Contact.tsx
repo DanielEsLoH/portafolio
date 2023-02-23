@@ -15,7 +15,7 @@ const Contact: FC = () => {
       style={{ scrollMarginTop: `${navHeight}px` }}
     >
       <h1 className="text-white font-openSans text-center text-4xl font-bold mt-6 leading-tight tracking-tighter">
-        Contáctame
+        Sobre mi:
       </h1>
       <div className="flex text-white py-8 md:py-20 items-center flex-col md:flex-row">
         <div
